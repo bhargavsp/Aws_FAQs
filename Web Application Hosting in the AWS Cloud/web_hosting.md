@@ -1,0 +1,1 @@
+https://d1.awsstatic.com/whitepapers/aws-web-hosting-best-practices.pdf
